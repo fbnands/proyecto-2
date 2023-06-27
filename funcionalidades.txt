@@ -1,0 +1,24 @@
+FUNCIONALIDADES
+
+
+1. Traer informacion de usuarios Debito.
+2. Traer informacion de usuarios Credito.
+3. Estados de cuenta Debito.
+4. Estados de cuenta Credito.
+5. actualizar datos Debito.
+6. actualizar datos Credito.
+7. eliminar datos Credito.
+8. Eliminar datos Debito.
+9. Crear Datos Debito.
+10. Crear datos credito.
+11. sacar dinero debito.
+12. sacar dinero credito.
+13. ingresar dinero Debito.
+14. pagar dinero credito.
+15. Historia de la cuenta Debito.
+16. Historia de la cuenta Credito.
+17. Cierre de cuenta Debito.
+18. Ciere de cuenta Credito.
+19. Deduccion pagos comercio Debito.
+20. Deduccion de pagos Credito.
+
